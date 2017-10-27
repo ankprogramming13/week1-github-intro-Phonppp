@@ -126,8 +126,8 @@ function fancyAlert(arg) {
 
 ### เมนูอาหารโปรด
 1. ข้าวมันไก่
+![alt text](https://620882fc-a-62cb3a1a-s-sites.googlegroups.com/site/kwangkgsabaibang/home/kwang.jpg?attachauth=ANoY7crksVH9nfJDDx6JJXVMLOMk4JLvdJN0Qz3izoVafqZlNHF6VJHKzf1H9Gt06QDk1ZPPBVw3oRu7ncKjSLRak11Vy4zZXz57BziHnTP98LRUdOr9TPbxIKYdhb9ckpN_8jL8I1O6O1HbqW50_Ot2-2VzdDC8i0MlLLs2jzDBGyy90Tb2pPgN-LOdT9ktu8W3ZO2xjGJboHZcRbU03UdM2ZpDqwgQzA%3D%3D&attredirects=0)
 
-https://620882fc-a-62cb3a1a-s-sites.googlegroups.com/site/kwangkgsabaibang/home/kwang.jpg?attachauth=ANoY7crksVH9nfJDDx6JJXVMLOMk4JLvdJN0Qz3izoVafqZlNHF6VJHKzf1H9Gt06QDk1ZPPBVw3oRu7ncKjSLRak11Vy4zZXz57BziHnTP98LRUdOr9TPbxIKYdhb9ckpN_8jL8I1O6O1HbqW50_Ot2-2VzdDC8i0MlLLs2jzDBGyy90Tb2pPgN-LOdT9ktu8W3ZO2xjGJboHZcRbU03UdM2ZpDqwgQzA%3D%3D&attredirects=0
 
 **$$$$3**
 
