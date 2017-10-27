@@ -108,13 +108,13 @@ function fancyAlert(arg) {
 **$$$$3**
 # **นางสาวพรพิมล สะใบบาง**
 
-### เพศ หญิง
+### เพศ _หญิง_
 
-### เกิดเมื่อวันที่ 30/01/42
+### เกิดเมื่อวันที่ _30/01/42_
 
-### วิชาที่ความถนัด เทคนิคการสร้างภาพเคลื่นไหว
+### วิชาที่ความถนัด _เทคนิคการสร้างภาพเคลื่นไหว_
 
-### ความสามารถพิเศษ 
+### ความสามารถพิเศษ
 - เล่นกีต้า 
 - ใช้โปรแกรมกราฟฟิก
 
@@ -126,6 +126,7 @@ function fancyAlert(arg) {
 
 ### เมนูอาหารโปรด
 1. ข้าวมันไก่
+
 ![alt text](https://620882fc-a-62cb3a1a-s-sites.googlegroups.com/site/kwangkgsabaibang/home/kwang.jpg?attachauth=ANoY7crksVH9nfJDDx6JJXVMLOMk4JLvdJN0Qz3izoVafqZlNHF6VJHKzf1H9Gt06QDk1ZPPBVw3oRu7ncKjSLRak11Vy4zZXz57BziHnTP98LRUdOr9TPbxIKYdhb9ckpN_8jL8I1O6O1HbqW50_Ot2-2VzdDC8i0MlLLs2jzDBGyy90Tb2pPgN-LOdT9ktu8W3ZO2xjGJboHZcRbU03UdM2ZpDqwgQzA%3D%3D&attredirects=0)
 
 
